@@ -1,11 +1,14 @@
 # Forensic Hiring Analytics & Compliance Audit
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://contrataciondev.netlify.app/)
 [![Data Analysis](https://img.shields.io/badge/Data%20Analytics-Econometric%20Modeling-10B981?style=for-the-badge)](#analitica-de-datos-y-modelado-financiero)
 [![API Integration](https://img.shields.io/badge/API-Banxico%20SIE-009688?style=for-the-badge)](#integracion-macroeconomica-y-api-banxico)
 [![Compliance](https://img.shields.io/badge/Governance-Risk%20%26%20Compliance-4F46E5?style=for-the-badge)](#matriz-de-riesgos-y-red-flags)
 [![Status](https://img.shields.io/badge/Status-Case%20Study%20%2F%20Audit-blue?style=for-the-badge)](#resumen-ejecutivo)
 
 > **Auditoría documental forense, modelado econométrico y plataforma analítica interactiva** sobre un proceso de contratación de ingeniería senior en una corporación multinacional: +220 días de trazabilidad cronológica, matriz de riesgos de compliance y cuantificación de la depreciación salarial mediante datos oficiales de inflación.
+>
+> 🌐 **Plataforma Web en Producción:** [contrataciondev.netlify.app](https://contrataciondev.netlify.app/)
 
 ---
 
@@ -109,6 +112,7 @@ This project presents a **forensic data analytics audit and corporate compliance
 
 ## Contacto y Referencias
 
+* **Plataforma Web en Producción:** [contrataciondev.netlify.app](https://contrataciondev.netlify.app/)
 * **Autor:** Nicolás Snider
 * **LinkedIn:** [linkedin.com/in/nicolassnider](https://www.linkedin.com/in/nicolassnider/)
 * **Portfolio:** [nicolassnider.github.io](https://nicolassnider.github.io)
